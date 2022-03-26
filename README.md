@@ -13,3 +13,6 @@ A tool for fortran programming language which helps in installing or removing al
 #for compiling and running fortran files
   
   $ fdk.py <file.f90>
+
+
+[ Learning Fortran  --> https://fortran-lang.org/learn/quickstart ]
