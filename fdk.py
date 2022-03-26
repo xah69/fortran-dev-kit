@@ -9,8 +9,8 @@ if options == "i":
  os.system("python3 init.py")
 elif options == "r":
  os.system("exit.py")
-elif options == "e":
- arg1 = sys.argv[2]
+else:
+ arg1 = sys.argv[1]
  arg2 = arg1.split(".")
  cmd = "run.sh " + arg1 + " " + arg2[0]
  os.system(cmd)
