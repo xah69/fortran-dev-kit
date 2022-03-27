@@ -1,3 +1,5 @@
+!example file
+
 program odd_even
 
  implicit none
